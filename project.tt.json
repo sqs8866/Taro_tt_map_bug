@@ -1,0 +1,9 @@
+{
+  "miniprogramRoot": "./",
+  "projectname": "mapTest",
+  "appid": "tt964ae0f709756f4601",
+  "setting": {
+    "es6": false,
+    "minified": false
+  }
+}
